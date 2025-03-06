@@ -1,6 +1,6 @@
 package com.supermercado.mvc.controller;
 
-import com.supermercado.mvc.model.Cliente;
+import com.supermercado.mvc.banco.BancoDeClientes;
 import com.supermercado.mvc.model.Cliente;
 
 import java.util.List;
